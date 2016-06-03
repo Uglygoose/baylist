@@ -1,2 +1,9 @@
 @charset "utf-8";
 /* CSS Document */
+.done-true {
+	color: #ddd;
+	text-decoration: line-through;
+}
+.done-false {
+	color: lime;
+}
